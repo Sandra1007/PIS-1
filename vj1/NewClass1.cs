@@ -6,10 +6,14 @@ namespace vj1
 {
     class NewClass1
     {
+
         public void NovaMetoda()
         {
             Console.WriteLine("metoda");
 
         }
+
+
+
     }
 }

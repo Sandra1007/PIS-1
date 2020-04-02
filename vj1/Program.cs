@@ -8,6 +8,8 @@ namespace vj1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Dodano");
+//komentar
+Console.WriteLine("komentar");
         }
     }
 }
