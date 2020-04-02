@@ -6,5 +6,6 @@ namespace vj1
 {
     class NewClass1
     {
+Console.Writeline("dodano");
     }
 }
